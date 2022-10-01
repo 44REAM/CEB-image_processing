@@ -1,5 +1,7 @@
 # Image processing
+
 ---
+
 ## Timeine
 
 Week 1 Introduction and Intensity transformation
@@ -21,5 +23,3 @@ Week 8 Features extraction
 Week 9 Image Classification
 
 Week 10 Student presentation
-
-
