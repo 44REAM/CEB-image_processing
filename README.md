@@ -14,6 +14,8 @@ Week Frequency domain
 
 Week Segmentation
 
+Week Morphological
+
 Week Image Classification
 
 Week Student presentation
