@@ -11,8 +11,10 @@ Week Image processing fundamental
 Week Image registration
 
 Week Intensity transformation
+- Image restoration
 
 Week Frequency domain
+- Image restoration
 
 Week Segmentation
 
