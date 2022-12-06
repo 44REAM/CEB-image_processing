@@ -10,6 +10,8 @@ Week Image processing fundamental
 
 Week Intensity transformation
 
+Week Image registration
+
 Week Frequency domain
 
 Week Segmentation
