@@ -20,6 +20,6 @@ Week Segmentation
 
 Week Morphological
 
-Week Image Classification
+Week Application
 
 Week Student presentation
