@@ -4,25 +4,35 @@
 
 ## Timeine
 
-Week Introduction
+1. Digital Image Modalities and Processing,
+The Human Visual System, Perception and Color
 
-Week Image processing fundamental
+2. Image processing fundamental, Geometric transformation, Image interpolation
 
-Week Intensity transformation
-- Image restoration
+3. Intensity transformation,
+Spatial Filtering: Linear filtering, Non-linear filtering
 
-Week Frequency domain
-- Image restoration
+4. Fourier Transform, Sampling and Aliasing, 
+Frequency Domain Filtering, Radon transform
 
-Week Image registration
+5. Image Segmentation,
+Graph cut
 
-Week Segmentation
+6. Image morphology,
+Erosion, Dilation,
+Watershed
 
-Week Morphological
+7. Image registration
+Feature-based registration
+Intensity-based registration
 
-Week Application
 
-Week Student presentation
+8. Application: Diffusion tensor imaging (DTI), 
+Non-linear filtering: Anisotropic filtering
+
+9. Student presentation
+
+
 
 References
 
