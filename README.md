@@ -38,4 +38,5 @@ References
 
 1. Gonzalez, Rafael C. and Woods, Richard E.. Digital image processing. Upper Saddle River, N.J.: Prentice Hall, 2008. 
 2. Richard Szeliski. Computer Vision: Algorithms and Applications. Springer, New York, 2nd edition, 2022.
-3. https://fpcv.cs.columbia.edu/
+3. https://github.com/PacktPublishing/Python-Image-Processing-Cookbook
+4. https://fpcv.cs.columbia.edu/
