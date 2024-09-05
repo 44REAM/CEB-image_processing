@@ -10,13 +10,15 @@
 
 3. Image Segmentation, Graph cut
 
-6. Image morphology, Erosion, Dilation, Watershed
+4. Image morphology, Erosion, Dilation, Watershed
 
-7. Image Resampling and Registration: Feature-based registration Intensity-based registration
+5. Image Resampling and Registration: Feature-based registration Intensity-based registration
 
-8. Deep Generative model and self supervised in image I
+6. Object detection
 
-9. Deep Generative model and self supervised in image II
+7. Deep Generative model and self supervised in image I
+
+8. Deep Generative model and self supervised in image II
 
 
 
