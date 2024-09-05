@@ -4,33 +4,19 @@
 
 ## Timeine
 
-1. Digital Image Modalities and Processing,
-The Human Visual System, Perception and Color
+1. Introduction to Digital Image Modalities and Processing, Intensity transformation
 
-2. Image processing fundamental, Geometric transformation, Image interpolation
+2. Geometric transformation, Image interpolation, Frequency Domain Filtering, 2D Fourier Transform, Sampling and Aliasing, Radon transform
 
-3. Intensity transformation,
-Spatial Filtering: Linear filtering, Non-linear filtering
+3. Image Segmentation, Graph cut
 
-4. Fourier Transform, Sampling and Aliasing, 
-Frequency Domain Filtering, Radon transform
+6. Image morphology, Erosion, Dilation, Watershed
 
-5. Image Segmentation,
-Graph cut
+7. Image Resampling and Registration: Feature-based registration Intensity-based registration
 
-6. Image morphology,
-Erosion, Dilation,
-Watershed
+8. Deep Generative model and self supervised in image I
 
-7. Image registration
-Feature-based registration
-Intensity-based registration
-
-
-8. Application: Diffusion tensor imaging (DTI), 
-Non-linear filtering: Anisotropic filtering
-
-9. Student presentation
+9. Deep Generative model and self supervised in image II
 
 
 
